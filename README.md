@@ -7,7 +7,7 @@ TodoApp1
 * Nested Forms
 * RSpec Testing
 * HAML, CSS/SASS, jQuery (basics)
-* Only generate Migrations with `rails g migration ...`
+* Only generate Migrations `rails g migration ...`, not Models or Controller. Never scaffold!
  
 ###Workflow
 
